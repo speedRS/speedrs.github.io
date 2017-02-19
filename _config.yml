@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: To shreds, you say?
+author: speedRS
+theme: minima 
+github_username: speedRS
+exclude:
+  - Gemfile
+  - Gemfile.lock
