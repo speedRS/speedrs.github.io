@@ -35,7 +35,7 @@ You can clearly see that there is a preceeding byte sequence of `0xEF`,`0xBB` an
 
 [^2]: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/) - An excellent text editor I've used for several years.
 
-[^3]: [Sublime Text](http://www.sublimetext.com/) - Seems to be the flavour-of-the-month editor, recommended to me by <a href="https://twitter.com/gmrph">@gmrph. I've been pretty happy with it so far, especially in terms of it's [simplified package management](http://wbond.net/sublime_packages/package_control) abilities. It's also cross-platform!
+[^3]: [Sublime Text](http://www.sublimetext.com/) - Seems to be the flavour-of-the-month editor. I've been pretty happy with it so far, especially in terms of it's [simplified package management](http://wbond.net/sublime_packages/package_control) abilities. It's also cross-platform!
 
 [^4]: <a href="https://github.com/facelessuser/HexViewer">https://github.com/facelessuser/HexViewer</a> - A hex viewer for Sublime Text 2.
 
