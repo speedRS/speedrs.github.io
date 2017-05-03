@@ -8,12 +8,12 @@ highlighter:      pygments
 
 # Setup
 title:            'to shreds, you say?' 
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'Made by <a href="https://twitter.com/speed_rs" target="_blank">@speedRS</a>.'
-url:              http://hyde.getpoole.com
+url:              http://blog.toshredsyousay.com
 baseurl:          /
 
 author:
 name:           'Richard Speter'
-url:            https://twitter.com/mdo
+url:            https://twitter.com/speed_rs
 version: 1.0.0
